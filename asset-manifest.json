@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/portfolio-web/static/css/main.80d94856.chunk.css",
+    "main.js": "/portfolio-web/static/js/main.c8811945.chunk.js",
+    "main.js.map": "/portfolio-web/static/js/main.c8811945.chunk.js.map",
+    "runtime-main.js": "/portfolio-web/static/js/runtime-main.ebc90da5.js",
+    "runtime-main.js.map": "/portfolio-web/static/js/runtime-main.ebc90da5.js.map",
+    "static/css/2.d4a69d28.chunk.css": "/portfolio-web/static/css/2.d4a69d28.chunk.css",
+    "static/js/2.4951fa6d.chunk.js": "/portfolio-web/static/js/2.4951fa6d.chunk.js",
+    "static/js/2.4951fa6d.chunk.js.map": "/portfolio-web/static/js/2.4951fa6d.chunk.js.map",
+    "index.html": "/portfolio-web/index.html",
+    "static/css/2.d4a69d28.chunk.css.map": "/portfolio-web/static/css/2.d4a69d28.chunk.css.map",
+    "static/css/main.80d94856.chunk.css.map": "/portfolio-web/static/css/main.80d94856.chunk.css.map",
+    "static/js/2.4951fa6d.chunk.js.LICENSE.txt": "/portfolio-web/static/js/2.4951fa6d.chunk.js.LICENSE.txt",
+    "static/media/bootstrap-icons.css": "/portfolio-web/static/media/bootstrap-icons.38c4d249.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ebc90da5.js",
+    "static/css/2.d4a69d28.chunk.css",
+    "static/js/2.4951fa6d.chunk.js",
+    "static/css/main.80d94856.chunk.css",
+    "static/js/main.c8811945.chunk.js"
+  ]
+}
